@@ -3,5 +3,5 @@
 ### Usage
 
 ```shell
-qf-cli init vue-starter myApp
+qf init vue-starter myApp
 ```
