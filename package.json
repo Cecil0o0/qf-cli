@@ -1,6 +1,6 @@
 {
   "name": "qf-cli",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "前端工程脚手架",
   "main": "src/index.js",
   "scripts": {
