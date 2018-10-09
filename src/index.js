@@ -14,6 +14,9 @@ const relationship = {
   },
   'test-starter': {
     repo: 'github:Cecil0o0/templates#master'
+  },
+  'koa-starter': {
+    repo: 'github:Cecil0o0/templates#koa-template'
   }
 }
 
